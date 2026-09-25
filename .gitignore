@@ -10,3 +10,21 @@ CLAUDE.md
 PLAN.md
 SKILL.md
 experiment-walkthrough.md
+
+# Internal working context stays on this Mac, not in the public repository.
+[Aa][Gg][Ee][Nn][Tt][Ss].[Mm][Dd]
+[Cc][Ll][Aa][Uu][Dd][Ee].[Mm][Dd]
+[Bb][Uu][Ii][Ll][Dd][Ss].[Mm][Dd]
+/[Ss][Kk][Ii][Ll][Ll].[Mm][Dd]
+.claude/
+.codex/
+.agents/
+[Pp][Rr][Dd]*.[Mm][Dd]
+*[Pp][Rr][Dd]*.[Mm][Dd]
+[Rr][Oo][Aa][Dd][Mm][Aa][Pp]*.[Mm][Dd]
+/reports/pipeline_calibration/20260613_193948/fine_tune_decision.md
+/reports/handoff_completeness/20260612_152326/windup_note.md
+/reports/sop_adherence/20260611_135616/windup_note.md
+/reports/source_of_truth/20260611_114750/windup_note.md
+/reports/technical_diagnosis/20260612_122012/windup_note.md
+/reports/unsupported_promise/20260611_155311/windup_note.md
